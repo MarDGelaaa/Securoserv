@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "696310702523",
+    "firebase_url": "https://securoserv-c097d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "securoserv-c097d",
+    "storage_bucket": "securoserv-c097d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696310702523:android:320d099e4fb34f8e59e49e",
+        "android_client_info": {
+          "package_name": "com.esaip.securoserv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1oJ03doVsIMcj3iHZdsl8X0yb7TGIAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696310702523:android:3ab3e7cb65683ce859e49e",
+        "android_client_info": {
+          "package_name": "com.esaip.securoverse2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1oJ03doVsIMcj3iHZdsl8X0yb7TGIAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

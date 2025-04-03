@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "902734903861",
+    "firebase_url": "https://securoserv-42746-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "securoserv-42746",
+    "storage_bucket": "securoserv-42746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902734903861:android:09727c737f5b56f49fcf7c",
+        "android_client_info": {
+          "package_name": "com.esaip.securoverse2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6arpXk0qggo4Dof_kExOI9--24voJoHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
