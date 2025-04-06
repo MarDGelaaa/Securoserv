@@ -1,26 +1,27 @@
-# Securoserv - Application Mobile de Sécurité
+# 📱 Securoserv - Application Mobile de Sécurité
 
-**Securoserv** est un projet scolaire d'application mobile développée sous **Android Studio**, conçu pour offrir une sécurité optimale à ses utilisateurs. L'application se concentre sur la protection des données personnelles et la gestion de la sécurité sur les appareils Android.
+**Securoserv** est une application mobile développée dans le cadre d’un projet scolaire sous **Android Studio**. Elle a été pensée pour renforcer la **sécurité des utilisateurs Android**, en mettant l'accent sur la **protection des données personnelles** et une gestion intelligente des menaces potentielles.
 
+---
 
-## 🎬 Vidéo de Présentation
+## 📄 Documentation & 🎬 Vidéo de Présentation
 
-Découvrez notre projet à travers cette vidéo de présentation ! 🎥
+Retrouvez toute la documentation du projet ainsi qu’une vidéo de démonstration via le lien suivant :  
+👉 [Accéder à la documentation et à la vidéo](https://groupeesaip-my.sharepoint.com/:f:/g/personal/mnjime_ira2026_esaip_org/Ertdo8I2UEdAoNfn4fX1JMABYpHu6wtN0s_t5EQnvTHrkA?e=jd0UAF)
 
-[![Vidéo de présentation de Securoserv](https://youtu.be/9-x9xpiQ8Vk)]
+---
 
+## ⚙️ Installation & Configuration
 
-## 🚀 Installation et Configuration
+### ✅ Prérequis
 
-### Prérequis
+Avant de commencer, veillez à avoir les outils suivants installés sur votre machine :
 
-Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votre machine :
+- [**Android Studio**](https://developer.android.com/studio)  
+- [**JDK (Java Development Kit)**](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
-- **Android Studio** : Téléchargez et installez [Android Studio](https://developer.android.com/studio).
-- **JDK** (Java Development Kit) : Android Studio nécessite JDK. Vous pouvez le télécharger [ici](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+### 📥 Clonage du projet
 
-### Cloner le projet
-
-1. Clonez ce repository :
+1. Clonez le dépôt Git :
    ```bash
    git clone https://github.com/MarDGelaaa/Securoserv.git
